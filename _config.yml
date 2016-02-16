@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0
+  lightness: 0.8234043
+  brandStrength: 1
+  brandColors:
+    - '#C4C4C4'
+    - '#F1F1F1'
+    - '#5C5C5C'
+    - '#0F4C43'
+    - '#161617'
+  rhythmicContrast: 0
+typography_spectrum: 0
+name: theLAB
